@@ -1,11 +1,12 @@
 # adds-game-reporter
 
+
 This is a JQuery plugin and there is no need for customization or reliance on html.
 
 ### Next Steps ( INTEGRATION / SETUP )
 
 All you have to do is:
-- Add this script file and include it at the end of your html text tags.
+- Add this [script file](https://github.com/medmahdimaarouf/adds-game-reporter/blob/master/js/reporter.js "script file") and include it at the end of your html text tags.
 `<script type="text/javascript src="js/reporter.js"></script>`
 - Add your own action button.
 - In the onClick button event, please see this function and follow the example or put it as it is
